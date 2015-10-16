@@ -1,5 +1,5 @@
 # scottyadventur
-adventur rpg game made with java<br><br>
+adventure rpg game made with java<br><br>
 
 My first java game without libary's.
 While summer break i decided to do some research on java libary's. I wanted to create one on my own. So i did. I spend some nights doing research in java and playing around with code. 
