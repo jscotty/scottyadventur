@@ -30,4 +30,4 @@ Inventory with inventory [slots](https://github.com/jscotty/scottyadventur/blob/
 [Inventory](https://github.com/jscotty/scottyadventur/tree/master/src/my/game/inventory)<br><br>
 
 LightManager using [LightSource](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/managers/LightSource.java)<br>
-[TextManager](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/managers/LightManager.java)<br><br>
+[LightManager](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/managers/LightManager.java)<br><br>
