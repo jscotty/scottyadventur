@@ -24,7 +24,10 @@ Game states<br>
 [Game states](https://github.com/jscotty/scottyadventur/tree/master/src/my/game/state)<br><br>
 
 Text automatic typer<br>
-[TextHandler](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/handler/TextHandler.java)<br><br>
+[TextManager](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/managers/TextManager.java)<br><br>
 
 Inventory with inventory [slots](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/inventory/InvSlot.java) and [item](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/inventory/Item.java) enum class<br>
 [Inventory](https://github.com/jscotty/scottyadventur/tree/master/src/my/game/inventory)<br><br>
+
+LightManager using [LightSource](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/managers/LightSource.java)<br>
+[TextManager](https://github.com/jscotty/scottyadventur/blob/master/src/my/game/managers/LightManager.java)<br><br>
